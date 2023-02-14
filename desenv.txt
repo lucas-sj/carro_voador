@@ -1,0 +1,2 @@
+Vou  desenvolver em Python
+Criar aplicativo mobile em JAVA para cliente pedir carro.

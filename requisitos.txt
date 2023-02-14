@@ -1,0 +1,3 @@
+req1 - Para a viagem alcancar os 10 dolares o sistema de voo autonomo
+req2 - Para que não polua o ambiende o veiculo deve ser movido a hidrogenio 
+req3 - Para atigir o valor de 10 dolares devera fazer corridas com mais de uma pessoa.

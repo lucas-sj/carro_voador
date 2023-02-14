@@ -1,0 +1,1 @@
+Vamos motitorar os ambientes de produção com ferramnetas de log, acompanhar disco, cpu, io e rede
